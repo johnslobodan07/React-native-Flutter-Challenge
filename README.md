@@ -14,7 +14,7 @@ This challenge is expected to take about 12 hours.
 
 ## The Challenge
 
-For each page you will need to consume this API (https://fakestoreapi.com/products)
+For products, you will need to consume this API (https://fakestoreapi.com/products)
 
 #Page 1
 A login page with a username & password field and a "Sign in" & "Sign up" buttons +   Social logins options ( doesn't need to work )
