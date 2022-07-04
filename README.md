@@ -16,24 +16,24 @@ This challenge is expected to take about 8 hours.
 
 For products, you will need to consume this API (https://fakestoreapi.com/products)
 
-#Page 1
+#### Page 1
 A login page with a username & password field and a "Sign in" & "Sign up" buttons +   Social logins options ( doesn't need to work )
  
-#Page 2
+#### Page 2
 A list of products arranged in a grid layout that display product displays ie: cover, name, price, description, and a button to add a product to the cart ( using state and props )
 
-#Page 3
+#### Page 3
 A product page that displays a product image, description, price, and a button to add a product to the card
 
-#Page 4
+#### Page 4
 A cart page that displays all products in the cart and a submit button ( doesn't have to work )
 
 A cart icon in the app bar title needs to show the cart number of items every time a user updates the cart 
 
 ## Details
 
-# Note
-## You will need to write the test on each or main widget/component
+### Note
+#### You will need to write the test on each or main widget/component
 
 Once you complete your task, push your task to a new public repo on your account Github ( ellipsis_rnfl_challenge ) and then package your apk and share back with the URL to your repo 
 
