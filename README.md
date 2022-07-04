@@ -8,7 +8,7 @@ All the architecture and tooling are entirely up to you as well. Code in an envi
 
 The purpose of this challenge is to assess your **skills and approach to composing a simple web app** given a set of screens, and an API feed. We will also assess the **generated APK** output.
 
-This challenge is expected to take about 12 hours.
+This challenge is expected to take about 8 hours.
 
 
 
@@ -31,6 +31,9 @@ A cart page that displays all products in the cart and a submit button ( doesn't
 A cart icon in the app bar title needs to show the cart number of items every time a user updates the cart 
 
 ## Details
+
+#Note
+##You will need to write the test on each or main widget/component
 
 Once you complete your task, push your task to a new public repo on your account Github ( ellipsis_rnfl_challenge ) and then package your apk and share back with the URL to your repo 
 
