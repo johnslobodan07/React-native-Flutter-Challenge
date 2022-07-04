@@ -32,8 +32,8 @@ A cart icon in the app bar title needs to show the cart number of items every ti
 
 ## Details
 
-#Note
-##You will need to write the test on each or main widget/component
+# Note
+## You will need to write the test on each or main widget/component
 
 Once you complete your task, push your task to a new public repo on your account Github ( ellipsis_rnfl_challenge ) and then package your apk and share back with the URL to your repo 
 
